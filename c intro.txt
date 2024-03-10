@@ -1,0 +1,62 @@
+C is a general-purpose programming language, developed Dennis Ritchie at the Bell Laboratories in 1972, and still quite popular.
+Used to develop operating systems, databases, applications, etc.
+C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
+
+#include <stdio.h>
+int main() {
+  printf("Hello World!");
+  return 0;
+}
+
+#include <stdio.h> is a header file library that lets us work with input and output functions, such as printf() (used in line 4). Header files add functionality to C programs.
+This is called a function. Any code inside its curly brackets {} will be executed.
+printf() is a function used to output/print text to the screen.
+return 0 ends the main() function.
+
+C Format Specifiers:
+Format specifiers are used together with the printf() function to tell the compiler what type of data the variable is storing. It is basically a placeholder for the variable value.
+A format specifier starts with a percentage sign %, followed by a character.
+use %d for int, %c for char and %f for float
+
+The general rules for naming variables are:
+
+Names can contain letters, digits and underscores
+Names must begin with a letter or an underscore (_)
+Names are case-sensitive (myVar and myvar are different variables)
+Names cannot contain whitespaces or special characters like !, #, %, etc.
+Reserved words (such as int) cannot be used as names
+
+Output:
+printf("Programming Lecture.");
+printf("I shall be the game changer.");
+printf("I shall be millionaire.");
+
+To get user input, you can use the scanf() function:
+#include <stdio.h>
+int main() {
+    int number;
+    printf("Enter Number: ");
+    scanf("%d",&number);
+    printf("You entered %d", number);
+  return 0;
+}
+
+
+#include <stdio.h>
+int main() {
+  char firstName[30];
+printf("Enter your first name and press enter: \n");
+  scanf("%s", &firstName);
+  printf("Hello %s", firstName);
+  return 0;
+}
+
+
+#include <stdio.h>
+int main() {
+  char character;
+printf("Enter your first name and press enter: ");
+  scanf("%c", &character);
+  printf("Hello %c", character);
+  return 0;
+}
