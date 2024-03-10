@@ -41,7 +41,7 @@ int main() {
   return 0;
 }
 
-
+Example:
 #include <stdio.h>
 int main() {
   char firstName[30];
@@ -51,7 +51,7 @@ printf("Enter your first name and press enter: \n");
   return 0;
 }
 
-
+Example:
 #include <stdio.h>
 int main() {
   char character;
