@@ -1,3 +1,4 @@
+Basics:
 C is a general-purpose programming language, developed Dennis Ritchie at the Bell Laboratories in 1972, and still quite popular.
 Used to develop operating systems, databases, applications, etc.
 C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
