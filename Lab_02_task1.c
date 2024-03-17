@@ -15,3 +15,14 @@ int main()
     printf("\nCentigrade: %d",centigtrade);
     printf("\nFahrenheit: %d",fahrenheit);
 }
+
+/*
+Centigrade: 37
+Fahrenheit: 98
+
+Centigrade: 50
+Fahrenheit: 122
+
+Centigrade: 100
+Fahrenheit: 212
+*/
