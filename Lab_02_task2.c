@@ -3,6 +3,6 @@
 #include<stdio.h>
 int main()
 {
-    //Perimeter of irregular
+    //Perimeter of irregular shape having 5 sides
     printf("Hello");
 }
