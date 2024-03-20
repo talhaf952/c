@@ -61,3 +61,7 @@ printf("Enter your first name and press enter: ");
   printf("Hello %c", character);
   return 0;
 }
+
+Commit:
+Comments can be used to explain code, and to make it more readable. It can also be used to prevent execution when testing alternative code.
+Comments can be singled-lined or multi-lined.
