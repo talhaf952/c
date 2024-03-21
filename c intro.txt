@@ -71,3 +71,5 @@ Multi-line comments start with /* and ends with */.
 Any text between /* and */ will be ignored by the compiler:
 
 Labs to solve
+Lab 01
+Lab 02
