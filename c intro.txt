@@ -72,4 +72,7 @@ Any text between /* and */ will be ignored by the compiler:
 
 Labs to solve
 Lab 01
+task 1,2,3,4
+
 Lab 02
+task 1,2,3,4,5,6
