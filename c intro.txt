@@ -88,3 +88,20 @@ Bitwise operators
 
 Arithmetic Operators
 +, -, /, *, %, ++, --
+
+Assignment Operators
+Assignment operators are used to assign values to variables.
+we use the assignment operator (=) to assign the value to a variable.
+The addition assignment operator (+=) adds a value to a variable
+
+=	x = 5	x = 5	
++=	x += 3	x = x + 3	
+-=	x -= 3	x = x - 3	
+*=	x *= 3	x = x * 3	
+/=	x /= 3	x = x / 3	
+%=	x %= 3	x = x % 3	
+&=	x &= 3	x = x & 3	
+|=	x |= 3	x = x | 3	
+^=	x ^= 3	x = x ^ 3	
+>>=	x >>= 3	x = x >> 3	
+<<= x <<= 3	x = x << 3
