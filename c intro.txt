@@ -62,7 +62,7 @@ printf("Enter your first name and press enter: ");
   return 0;
 }
 
-Commit:
+Comments:
 Comments can be used to explain code, and to make it more readable. It can also be used to prevent execution when testing alternative code.
 Comments can be singled-lined or multi-lined.
 Single-line comments start with two forward slashes (//).
@@ -76,3 +76,13 @@ task 1,2,3,4
 
 Lab 02
 task 1,2,3,4,5,6
+
+Operators
+Operators are used to perform operations on variables and values.
+C divides the operators into the following groups:
+Arithmetic operators
+Assignment operators
+Comparison operators
+Logical operators
+Bitwise operators
+
