@@ -112,3 +112,4 @@ YES / NO
 ON / OFF
 TRUE / FALSE
 For this, C has a bool data type, which is known as booleans.
+Booleans represent values that are either true or false.
