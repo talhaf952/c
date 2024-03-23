@@ -111,3 +111,4 @@ in programming, we need a data type that can only have one of two values, like:
 YES / NO
 ON / OFF
 TRUE / FALSE
+For this, C has a bool data type, which is known as booleans.
