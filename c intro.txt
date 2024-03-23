@@ -105,3 +105,9 @@ The addition assignment operator (+=) adds a value to a variable
 ^=	x ^= 3	x = x ^ 3	
 >>=	x >>= 3	x = x >> 3	
 <<= x <<= 3	x = x << 3
+
+C Booleans
+in programming, we need a data type that can only have one of two values, like:
+YES / NO
+ON / OFF
+TRUE / FALSE
