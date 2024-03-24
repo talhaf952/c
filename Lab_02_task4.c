@@ -1,3 +1,7 @@
+/*Task 4: Write a program, declare meaningful variables to store price of wheat, rice, and biscuit. Declare 
+another variable to store total. Hardcode prices of wheat, rice and biscuit. Calculate to total and generate 
+output in following format:*/
+
 #include<stdio.h>
 int main()
 {
