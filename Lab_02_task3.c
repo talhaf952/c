@@ -12,3 +12,21 @@ int main() {
     printf("Expression 3: %d\n", expr3);
     return 0;
 }
+
+
+/*
+#include<stdio.h>
+int main()
+{
+    int x1,x2,answer;
+    x1=20;
+    x2=10;
+    answer=x1*x1+x2*x2+2*x1*x2;
+    printf("x1^2 + x2^2 + 2*x1*x2 = %d",answer);
+    answer=x1*x1+1/(x2*x2)-2;
+    printf("\nx1^2+1/(x2^2)-2 = %d",answer);
+    answer=(x1 + x2) * (x1 - x2);
+    printf("\n(x1 + x2) * (x1 - x2) = %d",answer);
+    return 0;
+}
+*/
