@@ -8,11 +8,14 @@ Gross Salary = Basic Salary + Medical Allowance + Conveyance allowance + House r
 Tax = 10 % of gross salary 
 Net Salary = Gross Salary - Tax
 */
+
+//if hard coded
 #include<stdio.h>
 int main()
 {
     int basic_salary, medical_allowance, conveyance_allowance, house_rent, gross_salary , tax, net_salary;
     basic_salary=30000;
+    
     medical_allowance=basic_salary*0.1;
     conveyance_allowance=basic_salary*0.15;
     house_rent=basic_salary*0.45;
@@ -21,6 +24,25 @@ int main()
     net_salary= gross_salary - tax;
     printf("Basic Salary = %d",basic_salary);
     printf("\nGross Salary = %d",gross_salary);
+    printf("\nNet Salary = %d",net_salary);
+    return 0;
+}
+
+//if take input from user
+
+#include<stdio.h>
+int main()
+{
+    int basic_salary, medical_allowance, conveyance_allowance, house_rent, gross_salary , tax, net_salary;
+    printf("Enter Basic Salary = ");
+    scanf("%d",&basic_salary);
+    medical_allowance=basic_salary*0.1;
+    conveyance_allowance=basic_salary*0.15;
+    house_rent=basic_salary*0.45;
+    gross_salary=basic_salary + medical_allowance + conveyance_allowance + house_rent;
+    tax=gross_salary * 0.1;
+    net_salary= gross_salary - tax;
+    printf("Gross Salary = %d",gross_salary);
     printf("\nNet Salary = %d",net_salary);
     return 0;
 }
