@@ -133,3 +133,8 @@ Use switch to specify many alternative blocks of code to be executed
 The if Statement
 Use the if statement to specify a block of code to be executed if a condition is true.
 Note that if is in lowercase letters. Uppercase letters (If or IF) will generate an error.
+
+Example
+if (20 > 18) {
+  printf("20 is greater than 18");
+}
