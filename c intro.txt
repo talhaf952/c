@@ -138,3 +138,7 @@ Example
 if (20 > 18) {
   printf("20 is greater than 18");
 }
+
+
+Switch Statement
+Instead of writing many if..else statements, you can use the switch statement.
