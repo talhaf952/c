@@ -160,3 +160,7 @@ switch (expression) {
 Random Function in C
 rand() function
 In the C programming language, the rand() function is a library function that generates the random number in the range [0, RAND_MAX]. When we use the rand() function in a program, we need to implement the stdlib.h header file because rand() function is defined in the stdlib header file. It does not contain any seed number. Therefore, when we execute the same program again and again, it returns the same values.
+
+Note: If the random numbers are generated with the rand() function without calling the srand() function, it returns the same sequences of numbers each time the program is executed.
+
+The rand() function returns the random integers whose range from 0 to RAND_MAX. The RAND_MAX is a symbolic constant that defines in stdlib.h header file, whose value is greater but less than 32767 depending on the C libraries.
