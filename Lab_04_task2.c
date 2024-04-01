@@ -1,21 +1,3 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<time.h>
-int main()
-{
-    // Generate four random numbers in range 1-5
-    /*int n;
-    printf("Enter limit: ");
-    scanf("%d",&n);
-    */
-    time_t t1;
-    srand((unsigned)time(&t1));
-    for(int i=0;i<4;i++)
-    {
-        printf("%d\t",rand() %5 + 1);
-    }
-}
-
 
 /*
 #include<stdio.h>
