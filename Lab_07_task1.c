@@ -4,7 +4,6 @@
 int main() {
     int a, b, c;
     float discriminant, root1, root2;
-    
     do {
         printf("Enter Non Zero value of \"a\": ");
         scanf("%d", &a);
@@ -15,9 +14,7 @@ int main() {
     
     printf("Enter value of \"c\": ");
     scanf("%d", &c);
-    
     discriminant = (b * b) - (4 * a * c);
-    
     if (discriminant < 0) {
         printf("Sorry, the roots are imaginary.\n");
     } else {
