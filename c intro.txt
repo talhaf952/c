@@ -164,3 +164,4 @@ Note: If the random numbers are generated with the rand() function without calli
 
 The rand() function returns the random integers whose range from 0 to RAND_MAX. The RAND_MAX is a symbolic constant that defines in stdlib.h header file, whose value is greater but less than 32767 depending on the C libraries.
 
+rand() %5; //For random number 0 to 4
