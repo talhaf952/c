@@ -170,3 +170,4 @@ rand() %100 +10 ; //For random number 10 to 100
 
 Functions like Max, Min not exists in c language
 We have to create functions on our own before " int main() "
+We can then call that function in program.
