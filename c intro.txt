@@ -168,4 +168,5 @@ rand() %5; //For random number 0 to 4
 rand() %5 + 1; //For random number 1 to 5
 rand() %100 +10 ; //For random number 10 to 100
 
-Functions like Max, Min not exists in c
+Functions like Max, Min not exists in c language
+We have to create functions on our own before " int main() "
