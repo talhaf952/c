@@ -205,4 +205,4 @@ The default statement is optional, and specifies some code to run if there is no
 
 
 It does not support OOP Concepts
-For OOP Concepts, we haev to move towards CPP
+For OOP Concepts, we haev to move towards CPP(C Plus Plus).
