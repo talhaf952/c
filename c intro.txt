@@ -1,5 +1,4 @@
 Outline:
-
 Output, input, comment, variables, Data Types, Constant, Operators, Booleans, Loops, Switch, Break- Continue, Array, String, Memory Address, Pointer.
 Functions, Functions Parameter, Functions Declaration, Recursions, Main Functions, Files(Create, Read, Write), Structures, Enums.
 Basics:
