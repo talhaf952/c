@@ -73,7 +73,7 @@ Any text between // and the end of the line is ignored by the compiler (will not
 Multi-line comments start with /* and ends with */.
 Any text between /* and */ will be ignored by the compiler:
 
-Labs to solve
+Labs to solve:
 Lab 01
 task 1,2,3,4
 
@@ -92,7 +92,7 @@ Bitwise operators
 Arithmetic Operators:
 +, -, /, *, %, ++, --
 
-Assignment Operators
+Assignment Operators:
 Assignment operators are used to assign values to variables.
 we use the assignment operator (=) to assign the value to a variable.
 The addition assignment operator (+=) adds a value to a variable
@@ -109,7 +109,7 @@ The addition assignment operator (+=) adds a value to a variable
 >>=	x >>= 3	x = x >> 3	
 <<= x <<= 3	x = x << 3
 
-C Booleans
+C Booleans:
 in programming, we need a data type that can only have one of two values, like:
 YES / NO
 ON / OFF
@@ -117,7 +117,7 @@ TRUE / FALSE
 For this, C has a bool data type, which is known as booleans.
 Booleans represent values that are either true or false.
 
-C If ... Else
+C If ... Else:
 C supports the usual logical conditions from mathematics:
 Less than: a < b
 Less than or equal to: a <= b
