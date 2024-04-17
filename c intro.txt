@@ -80,7 +80,7 @@ task 1,2,3,4
 Lab 02
 task 1,2,3,4,5,6
 
-Operators
+Operators:
 Operators are used to perform operations on variables and values.
 C divides the operators into the following groups:
 Arithmetic operators
@@ -89,7 +89,7 @@ Comparison operators
 Logical operators
 Bitwise operators
 
-Arithmetic Operators
+Arithmetic Operators:
 +, -, /, *, %, ++, --
 
 Assignment Operators
