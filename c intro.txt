@@ -158,6 +158,7 @@ switch (expression) {
     // code block
 }
 
+C While Loop
 
 Random Function in C
 rand() function
@@ -179,23 +180,6 @@ C Short Hand If Else (Ternary Operator)
 There is also a short-hand if else, which is known as the ternary operator because it consists of three operands.  It can be used to replace multiple lines of code with a single line. It is often used to replace simple if else statements:
 Syntax:
 variable = (condition) ? expressionTrue : expressionFalse;
-
-
-Switch Statement
-Instead of writing many if..else statements, you can use the switch statement.
-The switch statement selects one of many code blocks to be executed:
-==================================================
-Syntax:
-switch (expression) {
-  case x:
-    // code block
-    break;
-  case y:
-    // code block
-    break;
-  default:
-    // code block
-}
 
 ==================================================
 This is how it works:
