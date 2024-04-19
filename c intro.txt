@@ -175,6 +175,8 @@ while (i < 5) {
   i++;
 }
 
+//Do not forget to increase the variable used in the condition (i++), otherwise the loop will never end!
+
 
 Random Function in C
 rand() function
