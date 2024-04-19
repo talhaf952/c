@@ -166,6 +166,7 @@ The while loop loops through a block of code as long as a specified condition is
 while (condition) {
   // code block to be executed
 }
+//the code in the loop will run, over and over again, as long as a variable (i) is less than 5:
 
 
 
