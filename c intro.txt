@@ -183,6 +183,8 @@ do {
   // code block to be executed
 }
 while (condition);
+The loop will always be executed at least once, even if the condition is false, because the code block is executed before the condition is tested:
+
 
 Random Function in C
 rand() function
