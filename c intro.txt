@@ -222,6 +222,7 @@ For OOP Concepts, we haev to move towards CPP(C Plus Plus).
 
 
 Projects:
+Calculator
 Bank Management System
 Find and hit sheeps
 Inventory Management System
