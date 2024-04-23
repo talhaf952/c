@@ -228,3 +228,4 @@ Find and hit sheeps
 Inventory Management System
 Library Management System
 Rock, Paper, Scissor
+School Management System
