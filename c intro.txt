@@ -229,3 +229,4 @@ Inventory Management System
 Library Management System
 Rock, Paper, Scissor
 School Management System
+Employee Management System
