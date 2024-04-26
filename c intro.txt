@@ -208,7 +208,6 @@ Syntax:
 variable = (condition) ? expressionTrue : expressionFalse;
 
 ==================================================
-This is how it works:
 
 The switch expression is evaluated once
 The value of the expression is compared with the values of each case
