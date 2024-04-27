@@ -229,3 +229,4 @@ School Management System
 Employee Management System
 Car Parking
 Stars Pyramid
+Inverted Stars Pyramid
