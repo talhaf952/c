@@ -223,7 +223,7 @@ Calculator(Basic Operations and some advance functions)
 Bank Management System(Withdraw, add, check, send)
 Find and hit sheeps(Using concept of Arrays)
 Inventory Management System
-Library Management System
+Library Management System(LMS)
 Rock, Paper, Scissor
 School Management System
 Employee Management System
