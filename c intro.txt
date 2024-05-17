@@ -220,7 +220,7 @@ For OOP Concepts, we haev to move towards CPP(C Plus Plus).
 
 Projects:
 Calculator(Basic Operations and some advance functions)
-Bank Management System(Withdraw, add, check)
+Bank Management System(Withdraw, add, check, send)
 Find and hit sheeps(Using concept of Arrays)
 Inventory Management System
 Library Management System
