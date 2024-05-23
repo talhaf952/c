@@ -1,5 +1,5 @@
 Outline:
-Output, input, comment, variables, Data Types, Constant, Operators, Booleans, Loops, Switch, Break- Continue, Array, String, Memory Address, Pointer.
+Output, input, comment, variables, Data Types, Constant, Operators, Booleans, Loops, Switch, Break- Continue, Array, String, Memory Address, Pointers.
 Functions, Functions Parameter, Functions Declaration, Recursions, Main Functions, Files(Create, Read, Write), Structures, Enums.
 Basics:
 C is a general-purpose programming language, developed Dennis Ritchie at the Bell Laboratories in 1972, and still quite popular.
@@ -217,6 +217,8 @@ The default statement is optional, and specifies some code to run if there is no
 
 It does not support OOP Concepts
 For OOP Concepts, we haev to move towards CPP(C Plus Plus).
+
+
 
 Projects:
 Calculator(Basic Operations and some advance functions)
